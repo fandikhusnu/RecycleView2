@@ -1,5 +1,5 @@
 # RecycleView2
-Nama Project : <b>Intent3</b>
+Nama Project : <b>RecycleView2</b>
 <br>
 <br>
 <img src="https://cloud.githubusercontent.com/assets/22116846/20031700/25260bf6-a3ae-11e6-8d1e-96084d63aaf8.JPG" width="240px" height="400px">
